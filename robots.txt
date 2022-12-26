@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow:/?s=
+
+
+Sitemap: http://blog.mocn.top/sitemap.xml
+Sitemap: http://blog.mocn.top/baidusitemap.xml

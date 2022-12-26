@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>免费Jsdelivr反代CDN新鲜出炉~ （使用文档）</title>
+      <link href="/posts/a7484b3f/"/>
+      <url>/posts/a7484b3f/</url>
+      
+        <content type="html"><![CDATA[<h1 id="免费Jsdelivr反代CDN新鲜出炉-（使用文档）"><a href="#免费Jsdelivr反代CDN新鲜出炉-（使用文档）" class="headerlink" title="免费Jsdelivr反代CDN新鲜出炉~ （使用文档）"></a>免费Jsdelivr反代CDN新鲜出炉~ （使用文档）</h1><ol><li><p>Q：速度快吗？ A：cdn0基于Cloudflare自选节点 可能快可能慢 但是绝大多数都很快</p></li><li><p>Q：可以加速什么？A：任何东西都可以加速 包括字体和大图片 我们的优点也在这 就算你一个月跑到2TB（当然是CDN缓存内）我们也不会生气（（（</p></li><li><p>Q：为什么我的jsdelivr文件更新了 但是这里却没有更新？A：我们的cdn0有缓存，其他无缓存</p><p>cdn0<strong>晚高峰</strong>：</p><p><img src="https://s2.loli.net/2022/12/25/KmUwRZtNAWqYHoQ.png" alt="image.png"></p><p>此图仅代表2022年12月25号 我们在近日会增加更多cdn0的节点(ipv4&#x2F;ipv6) 速度会更快！</p></li></ol><h2 id="CDN链接"><a href="#CDN链接" class="headerlink" title="CDN链接"></a>CDN链接</h2><p><code>cdn0.877771.xyz</code> Cloudflare 自选节点 ping: 50-70ms 支持https 支持缓存（1个月）推荐</p><p><code>cdn1.877771.xyz</code> 中国香港节点 ping: 50-70ms 不支持https 回源ip</p><p><code>cdn2.877771.xyz</code> 印度节点 ping: 270-300ms 不支持https 回源ip</p><p><code>cdn3.877771.xyz</code> 英国节点 ping: 340-400ms 不支持https 回源ip</p><p><code>cdn4.877771.xyz</code> 加拿大节点 ping: 260-300ms 不支持https 回源ip</p><p><code>cdn5.877771.xyz</code> 荷兰节点 ping: 320-400ms 不支持https 回源ip</p><p><code>vercel-cdn.jkisme.ml</code> Vercel Serverless 节点 ping: 70-100ms 支持https 备用</p><p>Ping仅供参考 由于免费 可能不知道什么时候就倒闭了 但是我们会坚持的</p><h2 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h2><p>CDN由莫莫逗狗提供 <a href="https://www.mocn.top/">https://www.mocn.top</a></p><p>服务器（可能并不稳定的）及域名由Wmz1024提供 <a href="https://w03.cc/">https://w03.cc</a></p><p>CDN免费 但是一定要遵守下列守则：</p><ol><li>不用于违法违规的网站CDN加速 （包括但不限于HDD&#x2F;有损国家形象等）</li><li>使用即代表你同意JSD相关隐私政策。<a href="https://www.jsdelivr.com/terms">Terms &amp; Policies - jsDelivr</a></li></ol><p>求打赏：啊吧啊吧</p><p><a href="https://afdian.net/a/wmz1024">Wmz1024’s Afdian</a></p><p><a href="https://afdian.net/a/momo5418">momo5418’s Afdian</a></p><p>在使用前最好填写问卷：</p><p><a href="https://shimo.im/forms/m5kv9G8gwXhEm1qX/fill">https://shimo.im/forms/m5kv9G8gwXhEm1qX/fill</a> 邀请你填写表单 《申请使用CDN》</p><p>在网站中写上 <code>JSD反代由 cdn0.877771.xyz</code> (当然 最好是)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CDN </tag>
+            
+            <tag> Jsdelivr </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>不用Win11，Win10也能用WSA！</title>
+      <link href="/posts/a0fc2bc7/"/>
+      <url>/posts/a0fc2bc7/</url>
+      
+        <content type="html"><![CDATA[<p>Win10也能用Win11的安卓子系统了👀</p><p>特别鸣谢<a href="https://www.coolapk.com/u/Earth_Online" title="@Earth_Online">@Earth_Online</a></p><p><a href="https://imgse.com/i/zv16eI"><img src="https://s1.ax1x.com/2022/12/24/zv16eI.jpg" alt="zv16eI.jpg"></a></p><p>免责声明：此教程仅供您学习使用！</p><p><a href="https://imgse.com/i/zvAbod"><img src="https://s1.ax1x.com/2022/12/24/zvAbod.jpg" alt="zvAbod.jpg"></a></p><p>下面我将讲述如何利用此开源项目给朋友们的Win10也能安装上Win11的WSA：</p><p>开源项目地址（cinit&#x2F;WSAPatch）：<br><a href="https://github.com/cinit/WSAPatch" title="https://github.com/cinit/WSAPatch">查看链接</a></p><p>本文利用本开源项目的中文文档编写出图文教程，你也可以点击本文档自行参考：<br><a href="https://github.com/cinit/WSAPatch/blob/main/README_zhs.md" title="https://github.com/cinit/WSAPatch/blob/main/README_zhs.md">查看链接</a></p><p>在此感谢大佬！</p><p>1、系统要求<br>• 你的系统必须是Windows 10 22H2 10.0.19045.2311 或更高版本（更低版本未测试，可能可用）。<br>• 若你的 Windows 版本低于 10.0.19045.2311, 请将您的系统更新到 10.0.19045.2311 或以上。<br>• 你可以通过 winver 命令查看您当前的 Windows 版本.<br>例如：</p><p><a href="https://imgse.com/i/zvAxQf"><img src="https://s1.ax1x.com/2022/12/24/zvAxQf.jpg" alt="zvAxQf.jpg"></a></p><p>（我的版本为 22H2 19045.2364）</p><p>2、下载（制作）【集成 Magisk 的 WSA AppX 包】</p><p>你可选择使用成品，或参考文档自行使用Linux编译定制</p><p><a href="https://www.coolapk.com/u/Earth_Online">@Earth_Online</a>:<br>成品修改版（可直接使用，基于patch-20221210）下载链接：<br>链接：<a href="https://www.coolapk.com/feed/41954554" title="https://www.coolapk.com/feed/41954554">查看链接</a></p><p>3、安装WSA<br>PS：将文件夹移动到你想安装的磁盘位置（Windows 无法部署到文件系统类型为 exFAT 的路径 WSA）</p><p>双击运行 Run.bat</p><p>PS：切勿右键以管理员运行bat</p><p>WSA程序自行启动</p><p><a href="https://imgse.com/i/zvEmOU"><img src="https://s1.ax1x.com/2022/12/24/zvEmOU.jpg" alt="zvEmOU.jpg"></a></p><p>开始菜单出现WSA设置</p><p><a href="https://imgse.com/i/zvEKw4"><img src="https://s1.ax1x.com/2022/12/24/zvEKw4.jpg" alt="zvEKw4.jpg"></a></p><p>简单安装APK：<br>1、起初笔者使用微软商店的WSA APK安装工具（wherewhere）想给wsa安装应用，可是经实践无法使用，于是使用了流水断崖的搞机助手：<br>外链:<a href="https://wwfo.lanzoub.com/b012eh48h" title="https://wwfo.lanzoub.com/b012eh48h">查看链接</a> 密码:shuiku</p><p>2、安装完成后，首先打开子系统设置找见adb ip端口</p><p><a href="https://imgse.com/i/zvEDfI"><img src="https://s1.ax1x.com/2022/12/24/zvEDfI.md.jpg" alt="zvEDfI.md.jpg"></a></p><p>3、在搞机助手的扩展功能点击cmd命令行并输入，回车：<br>adb connect 127.0.0.1:58526</p><p><a href="https://imgse.com/i/zvEy1P"><img src="https://s1.ax1x.com/2022/12/24/zvEy1P.md.jpg" alt="zvEy1P.md.jpg"></a></p><img src="https://p0.meituan.net/csc/9e9242ea08153b05a7243cd173b0e33072692.jpg"><img src="https://p1.meituan.net/csc/eee6580bf45628651c170ded02e221e118263.jpg"><p>连接成功后，右下角会显示设备连接状态<br>此时WSA弹出窗口授权点击确认</p><p>4、搞机助手点击推送文件，选择需要安装的apk并点击推送。（不推荐使用应用安装）</p><p><a href="https://imgse.com/i/zvE66f"><img src="https://s1.ax1x.com/2022/12/24/zvE66f.md.jpg" alt="zvE66f.md.jpg"></a></p><p><a href="https://imgse.com/i/zvEHXT"><img src="https://s1.ax1x.com/2022/12/24/zvEHXT.jpg" alt="zvEHXT.jpg"></a></p><p>5、在子系统设置中点击文件</p><p><a href="https://imgse.com/i/zvEcX8"><img src="https://s1.ax1x.com/2022/12/24/zvEcX8.md.jpg" alt="zvEcX8.md.jpg"></a></p><p>6、点击方框中按钮，即可看到安装包，点击安装包安装，在安装后打开即可使用。并且在开始菜单也会显示。</p><p><a href="https://imgse.com/i/zvER0g"><img src="https://s1.ax1x.com/2022/12/24/zvER0g.md.jpg" alt="zvER0g.md.jpg"></a></p><p>PS：WSA可用的桌面程序：ATV_Launcher_0.1.5-pro<br>外链:<a href="https://wwfo.lanzoub.com/b012eh48h" title="https://wwfo.lanzoub.com/b012eh48h">查看链接</a> 密码:shuiku</p><p>截图</p><p><a href="https://imgse.com/i/zvEhkj"><img src="https://s1.ax1x.com/2022/12/24/zvEhkj.md.jpg" alt="zvEhkj.md.jpg"></a></p><p><a href="https://imgse.com/i/zvE4ts"><img src="https://s1.ax1x.com/2022/12/24/zvE4ts.jpg" alt="zvE4ts.jpg"></a><br><a href="https://imgse.com/i/zvE5hn"><img src="https://s1.ax1x.com/2022/12/24/zvE5hn.jpg" alt="zvE5hn.jpg"></a><br><a href="https://imgse.com/i/zvEopq"><img src="https://s1.ax1x.com/2022/12/24/zvEopq.md.jpg" alt="zvEopq.md.jpg"></a><br><a href="https://imgse.com/i/zvET10"><img src="https://s1.ax1x.com/2022/12/24/zvET10.md.jpg" alt="zvET10.md.jpg"></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> WSA </tag>
+            
+            <tag> Win10 </tag>
+            
+            <tag> 安卓子系统 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Pandownload的Lua脚本反编译</title>
+      <link href="/posts/cfadbb8f/"/>
+      <url>/posts/cfadbb8f/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>今天打算用Pandownload去下载东西，结果所使用的Lua维护中，没啥事干，看看源码，说干就干.</p><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>打开到 <code>PanDownload\PanData\script\default</code>这个目录下找到了Lua，像通常一样用记事本打开，结果</p><p><a href="https://imgse.com/i/zjohvT"><img src="https://s1.ax1x.com/2022/12/23/zjohvT.md.jpg" alt="zjohvT.md.jpg"></a></p><p>它加密了（意料之中🙂 ）</p><p>往下翻可以看到 密码错误</p><p><a href="https://imgse.com/i/zjof2V"><img src="https://s1.ax1x.com/2022/12/23/zjof2V.md.jpg" alt="zjof2V.md.jpg"></a></p><p>既然是Lua脚本，Emmm<a href="https://imgse.com/i/zjojxK"><img src="https://s1.ax1x.com/2022/12/23/zjojxK.jpg" alt="zjojxK.jpg"></a>在Bing上搜索找到了这篇文章：<a href="https://www.52pojie.cn/thread-743658-1-1.html">lua脚本加密工具：简单异或加密 - 『原创发布区』 - 吾爱破解</a></p><p><a href="https://imgse.com/i/zjTMIs"><img src="https://s1.ax1x.com/2022/12/23/zjTMIs.md.jpg" alt="zjTMIs.md.jpg"></a></p><p>这张图有点似曾相识，他和上面的脚本加密方式一毛一样</p><p>文章中可以得知这种加密叫做 <code>xor</code></p><h2 id="反编译方法："><a href="#反编译方法：" class="headerlink" title="反编译方法："></a>反编译方法：</h2><p>只需要将 <code>return o(m(i(b),c))end)</code> 更改为 <code>print(o(m(i(b),c)))return o(m(i(b),c))end)</code></p><p><a href="https://imgse.com/i/zjT6sO"><img src="https://s1.ax1x.com/2022/12/23/zjT6sO.jpg" alt="zjT6sO.jpg"></a><br><a href="https://imgse.com/i/zjTyQK"><img src="https://s1.ax1x.com/2022/12/23/zjTyQK.jpg" alt="zjTyQK.jpg"></a></p><p>这还不够，去<a href="https://joedf.ahkscript.org/LuaBuilds/">https://joedf.ahkscript.org/LuaBuilds/</a> 下载lua</p><p>解压，把修改过的lua放到这里</p><p><a href="https://imgse.com/i/zjTqeg"><img src="https://s1.ax1x.com/2022/12/23/zjTqeg.jpg" alt="zjTqeg.jpg"></a></p><p>在此处打开CMD，输入 <code>lua test.lua</code> 回车</p><p><a href="https://imgse.com/i/zjTxWq"><img src="https://s1.ax1x.com/2022/12/23/zjTxWq.jpg" alt="zjTxWq.jpg"></a></p><p>所输出的就是源码，由于编码问题，中文显示乱码.</p><p>PS：大家猜猜我反编译了谁的脚本？</p><h2 id="额外"><a href="#额外" class="headerlink" title="额外"></a>额外</h2><p>在TA的软件目录下</p><p><a href="https://imgse.com/i/zj7u6K"><img src="https://s1.ax1x.com/2022/12/23/zj7u6K.jpg" alt="zj7u6K.jpg"></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Pandownload </tag>
+            
+            <tag> Lua脚本 </tag>
+            
+            <tag> 反编译 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>好用的安卓软件分享[第二期]</title>
+      <link href="/posts/df3f02b/"/>
+      <url>/posts/df3f02b/</url>
+      
+        <content type="html"><![CDATA[<h1 id="好用的安卓软件分享-第二期"><a href="#好用的安卓软件分享-第二期" class="headerlink" title="好用的安卓软件分享[第二期]"></a>好用的安卓软件分享[第二期]</h1><h2 id="微信-v8-0-30-2244-Google-Play"><a href="#微信-v8-0-30-2244-Google-Play" class="headerlink" title="微信-v8.0.30.2244-Google Play"></a>微信-v8.0.30.2244-Google Play</h2><p>400多M的体积了，腾讯真行。</p><p>[推荐]链接：<a href="http://dl.mocn.top/d/24414542-53412028-5a8389?p=momo">http://dl.mocn.top/d/24414542-53412028-5a8389?p=momo</a> 提取码：自动填入</p><p>123Pan链接：<a href="https://www.123pan.com/s/6wf9-mEdxh">https://www.123pan.com/s/6wf9-mEdxh</a> 提取码:momo</p><h2 id="哔哩哔哩-v3-16-0-Google-Play"><a href="#哔哩哔哩-v3-16-0-Google-Play" class="headerlink" title="哔哩哔哩-v3.16.0-Google Play"></a>哔哩哔哩-v3.16.0-Google Play</h2><p>还是谷歌管的严，B站谷歌版哔哩哔哩国际版，简洁纯净清爽、隐私条款严、无升级提示弹窗。</p><p>[推荐]链接：<a href="http://dl.mocn.top/d/24414542-53412052-c7f018?p=momo">http://dl.mocn.top/d/24414542-53412052-c7f018?p=momo</a> 提取码：自动填入</p><p>123Pan链接：<a href="https://www.123pan.com/s/6wf9-1Edxh">https://www.123pan.com/s/6wf9-1Edxh</a> 提取码:momo</p><h2 id="京东-v11-3-0-Google-Play"><a href="#京东-v11-3-0-Google-Play" class="headerlink" title="京东-v11.3.0-Google Play"></a>京东-v11.3.0-Google Play</h2><p>[推荐]链接：<a href="http://dl.mocn.top/d/24414542-53412121-0f99c1?p=momo">http://dl.mocn.top/d/24414542-53412121-0f99c1?p=momo</a> 提取码：自动填入</p><p>123Pan链接：<a href="https://www.123pan.com/s/6wf9-4Edxh">https://www.123pan.com/s/6wf9-4Edxh</a> 提取码:momo</p><h2 id="支付宝-v10-2-51-8000-Google-Play"><a href="#支付宝-v10-2-51-8000-Google-Play" class="headerlink" title="支付宝-v10.2.51.8000-Google Play"></a>支付宝-v10.2.51.8000-Google Play</h2><p>[推荐]链接：<a href="http://dl.mocn.top/d/24414542-53412133-045989?p=momo">http://dl.mocn.top/d/24414542-53412133-045989?p=momo</a> 提取码：自动填入</p><p>123Pan链接：<a href="https://www.123pan.com/s/6wf9-xEdxh">https://www.123pan.com/s/6wf9-xEdxh</a> 提取码:momo</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 安卓软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Ubuntu与Windows双系统时间同步问题</title>
+      <link href="/posts/5535dab9/"/>
+      <url>/posts/5535dab9/</url>
+      
+        <content type="html"><![CDATA[<h1 id="ubuntu与windows双系统时间同步问题"><a href="#ubuntu与windows双系统时间同步问题" class="headerlink" title="ubuntu与windows双系统时间同步问题"></a>ubuntu与windows双系统时间同步问题</h1><h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><p>时间不同步的原因 <strong>非常简单</strong> ：</p><p><strong>Windows认为，BIOS时间就是当地时间。所以Windows会直接显示BIOS时间。</strong></p><p><strong>而Ubuntu认为，BIOS时间应当是UTC时间。所以Ubuntu会将BIOS时间加上8小时后再显示出来。</strong></p><p>所有的操作系统（不论是Ubuntu还是Windows）在启动后都会更新系统时间（除非你没联网）。</p><p>流程如下：</p><p>1.电脑开机，读取<strong>BIOS时间并显示。（Windows直接显示，Ubuntu将时间加8后再显示）</strong></p><p>2.联网后，获取<strong>当地时间并显示。</strong></p><p>3.更新<strong>BIOS时间。</strong></p><p>联网后大家获取到的时间都是当地时间，这没问题。但ubuntu和windows在<strong>更新BIOS时间时</strong> ，做法不同。Windows获取到当地时间后，直接把BIOS时间设为当地时间；而Ubuntu把BIOS时间设为UTC时间。比如现在是北京时间12点，UTC时间就是12-8&#x3D;4点，Ubuntu就会把BIOS时间设为4点。</p><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>直接在Ubuntu终端中输入：</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">timedatectl set-local-rtc 1</span><br></pre></td></tr></table></figure><p>这句话的作用是让Ubuntu将系统时间和BIOS时间同步。</p><p>现在，Ubuntu和Windows一样，都认为BIOS时间就是当地时间，联网更新时，也是直接将BIOS时间设为当地时间，这样就没问题了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Ubantu </tag>
+            
+            <tag> Windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Github部分地区电信被标记反诈，用vercel搭建的网站不稳定</title>
+      <link href="/posts/c1f10990/"/>
+      <url>/posts/c1f10990/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Github部分地区电信被标记反诈，用vercel搭建的网站不稳定"><a href="#Github部分地区电信被标记反诈，用vercel搭建的网站不稳定" class="headerlink" title="Github部分地区电信被标记反诈，用vercel搭建的网站不稳定"></a>Github部分地区电信被标记反诈，用vercel搭建的网站不稳定</h1><p>根据我一天的观察，有些地区电信线路被重定向至182.43.124.6这个IP.</p><p>我访问Github被重定向至本机IP.</p><p>不过在2022.12.07 19 : 00进行访问时，重定向貌似没了.</p><p>在2022.12.07，发现用vercel所搭建的网站访问变得不稳定.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 短文章 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 短文章 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>好用的分区检测工具[HDTune]</title>
+      <link href="/posts/c9988451/"/>
+      <url>/posts/c9988451/</url>
+      
+        <content type="html"><![CDATA[<h1 id="好用的分区检测工具HDTune"><a href="#好用的分区检测工具HDTune" class="headerlink" title="好用的分区检测工具HDTune"></a>好用的分区检测工具HDTune</h1><p>HD Tune Pro 是一款小巧易用的硬盘检测工具软件，主要功能有硬盘传输速率检测，硬盘健康状态检测，硬盘温度检测及磁盘表面扫描等。另外，还能检测出硬盘的固件版本、序列号、容量、缓存大小以及当前的 Ultra DMA 模式等。虽然这些功能其它软件也有，但难能可贵的是 HD Tune Pro 绿色版把所有这些功能积于一身，而且非常小巧，速度又快，更重要的是它是免费软件，可自由使用。</p><p>在对各种组件进行基准测试时，磁盘驱动器经常被忽略，但是缓慢或损坏的 HDD 或 SSD 可能导致严重的性能问题，这就是为什么每隔一段时间对它们进行一次测试是一个好主意。</p><p>HD Tune Pro是一款功能强大的实用程序，可帮助您对驱动器进行基准测试，并发现可能影响其性能的问题。此外，除了 HD Tune 提供的功能外，Pro 版还可以监控驱动器，分析磁盘使用情况，安全擦除文件等。</p><p>对 HDD 或 SSD 进行基准测试，以确保其性能不佳<br>应用程序可以运行多种类型的测试来评估设备的性能。 HD Tune Pro 使您可以在传输数据时测量传输速率，访问时间和突发速率以及 CPU 使用率。</p><p>还可以使用具有可定制长度的文件执行文件基准测试，以及通过传输不同大小的文件来模拟正常使用条件的随机访问测试。</p><p>密切关注您的驱动器的健康状况<br>HD Tune Pro 可监控与存储设备运行状况相关的一系列参数，例如执行各种操作时的温度和故障计数。这些检查会定期执行，如果检测到问题，您将收到通知。</p><p>此外，您可以随时运行手动错误扫描，以查找损坏的块或扇区。您甚至可以选择应扫描哪些块。</p><p>评估磁盘使用情况，擦除已删除的文件并减少硬盘噪音<br>如果磁盘空间不足，可以切换到“文件夹使用”选项卡并运行扫描，以查找和清除特别大的目录。</p><p>具有隐私意识的用户可以利用此程序覆盖其驱动器上的可用空间，从而防止任何已删除的文件被恢复。</p><p>自动声学管理功能可以帮助您减少寻求时硬盘驱动器产生的噪音，这对于拥有静音PC的用户来说可能是一个问题。</p><p>总体而言，HD Tune Pro 是一款功能丰富的 HDD 和 SDD 管理实用程序，可让您对设备进行基准测试，监控其运行状况，管理磁盘使用情况等。它非常易于使用，具有直观的 GUI，并且还附带了大量文档。</p><p>直接上图</p><p><a href="https://imgse.com/i/zX7iDg"><img src="https://s1.ax1x.com/2022/12/22/zX7iDg.png" alt="zX7iDg.png"></a></p><p>无需注册码，直接可以使用.</p><p>下载链接：评论区</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>烽火HG680-KA-Hi3798MV310刷机教程及原厂固件[全网首发]</title>
+      <link href="/posts/124ff5d/"/>
+      <url>/posts/124ff5d/</url>
+      
+        <content type="html"><![CDATA[<h1 id="烽火HG680-KA-Hi3798MV310刷机教程及原厂固件-全网首发"><a href="#烽火HG680-KA-Hi3798MV310刷机教程及原厂固件-全网首发" class="headerlink" title="烽火HG680-KA-Hi3798MV310刷机教程及原厂固件[全网首发]"></a>烽火HG680-KA-Hi3798MV310刷机教程及原厂固件[全网首发]</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>看到标题的朋友们已经看到是原厂固件，为什么要搞原厂呢？</p><p>1.之前刷了Magisk，开机要将近一分钟，刷Magisk也没啥用，仅仅是一个看电视的小盒子.</p><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="刷机教程"><a href="#刷机教程" class="headerlink" title="刷机教程"></a>刷机教程</h3><p>准备的东西：电脑，U盘（16G以下），一根铜线（导电就可以）</p><p>先下载刷机包（评论区）</p><p>解压</p><p>把U盘格式化</p><p><a href="https://imgse.com/i/zX79v8"><img src="https://s1.ax1x.com/2022/12/22/zX79v8.png" alt="zX79v8.png"></a></p><p>注意:FAT32,8192字节</p><p>把刷机包里的文件复制到U盘</p><p><a href="https://imgse.com/i/zX7pgf"><img src="https://s1.ax1x.com/2022/12/22/zX7pgf.png" alt="zX7pgf.png"></a></p><p>拔出U盘</p><p>把盒子拆开</p><p>在盒子插上U盘</p><p>那根线一端接GND</p><p><a href="https://imgse.com/i/zX7uvT"><img src="https://s1.ax1x.com/2022/12/22/zX7uvT.png" alt="zX7uvT.png"></a></p><p>一段接R36（注意接的方向，是在R36文字的左边）</p><p><a href="https://imgse.com/i/zX7MKU"><img src="https://s1.ax1x.com/2022/12/22/zX7MKU.png" alt="zX7MKU.png"></a></p><p>插电开机</p><p>等待5到10秒，指示灯亮起松开</p><p><a href="https://imgse.com/i/zX7n2V"><img src="https://s1.ax1x.com/2022/12/22/zX7n2V.png" alt="zX7n2V.png"></a></p><p>开始刷机</p><p><a href="https://imgse.com/i/zX7m80"><img src="https://s1.ax1x.com/2022/12/22/zX7m80.png" alt="zX7m80.png"></a></p><p>本篇结束</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 折腾 </tag>
+            
+            <tag> 刷机 </tag>
+            
+            <tag> 电视盒子 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>好用的安卓软件分享</title>
+      <link href="/posts/7d6360f1/"/>
+      <url>/posts/7d6360f1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="好用的安卓软件分享"><a href="#好用的安卓软件分享" class="headerlink" title="好用的安卓软件分享"></a>好用的安卓软件分享</h1><h2 id="普通"><a href="#普通" class="headerlink" title="普通"></a>普通</h2><h3 id="微信-7-0-21-64位"><a href="#微信-7-0-21-64位" class="headerlink" title="微信-7.0.21-64位"></a>微信-7.0.21-64位</h3><p>众所周知，微信进入8.0.0版本就增加了AD，分享微信最后能用的一个版本.</p><p>链接：<a href="https://www.123pan.com/s/6wf9-wAdxh">https://www.123pan.com/s/6wf9-wAdxh</a> 提取码:momo</p><h3 id="QQ-8-5-5-32位"><a href="#QQ-8-5-5-32位" class="headerlink" title="QQ-8.5.5-32位"></a>QQ-8.5.5-32位</h3><p>开启简洁模式还能用.</p><p>链接：<a href="https://www.123pan.com/s/6wf9-gAdxh">https://www.123pan.com/s/6wf9-gAdxh</a> 提取码:momo</p><h3 id="支付宝-10-1-88-5821-32位"><a href="#支付宝-10-1-88-5821-32位" class="headerlink" title="支付宝-10.1.88.5821-32位"></a>支付宝-10.1.88.5821-32位</h3><p>健康码，行程码可用.</p><p>链接：<a href="https://www.123pan.com/s/6wf9-FAdxh">https://www.123pan.com/s/6wf9-FAdxh</a> 提取码:momo</p><h3 id="哔哩哔哩-7-0-0-64位"><a href="#哔哩哔哩-7-0-0-64位" class="headerlink" title="哔哩哔哩-7.0.0-64位"></a>哔哩哔哩-7.0.0-64位</h3><p>可以长按视频快进，看视频流畅.</p><p>链接：<a href="https://www.123pan.com/s/6wf9-YAdxh">https://www.123pan.com/s/6wf9-YAdxh</a> 提取码:momo</p><h3 id="Android-System-WebView-103-0-5060-71-32位"><a href="#Android-System-WebView-103-0-5060-71-32位" class="headerlink" title="Android System WebView-103.0.5060.71-32位"></a>Android System WebView-103.0.5060.71-32位</h3><p>没什么好说的</p><p>链接：<a href="https://www.123pan.com/s/6wf9-GAdxh">https://www.123pan.com/s/6wf9-GAdxh</a> 提取码:momo</p><h2 id="XP模块"><a href="#XP模块" class="headerlink" title="XP模块"></a>XP模块</h2><p>需要有XP环境才可以使用.</p><h3 id="QNotified-1-0-1-64位"><a href="#QNotified-1-0-1-64位" class="headerlink" title="QNotified-1.0.1-64位"></a>QNotified-1.0.1-64位</h3><p>链接：<a href="https://www.123pan.com/s/6wf9-PAdxh">https://www.123pan.com/s/6wf9-PAdxh</a> 提取码:momo</p><h3 id="微X模块-2-35-32位"><a href="#微X模块-2-35-32位" class="headerlink" title="微X模块-2.35-32位"></a>微X模块-2.35-32位</h3><p>链接：<a href="https://www.123pan.com/s/6wf9-XAdxh">https://www.123pan.com/s/6wf9-XAdxh</a> 提取码:momo</p><h3 id="假装分享-1-3"><a href="#假装分享-1-3" class="headerlink" title="假装分享-1.3"></a>假装分享-1.3</h3><p>链接：<a href="https://www.123pan.com/s/6wf9-nAdxh">https://www.123pan.com/s/6wf9-nAdxh</a> 提取码:momo</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 安卓 </tag>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>支持分线路|电信|联通|移动|国外等|解析的免费DNS服务</title>
+      <link href="/posts/ed4a54df/"/>
+      <url>/posts/ed4a54df/</url>
+      
+        <content type="html"><![CDATA[<p>1、京东云解析DNS</p><p>稳定性有保障，免费版支持电信、联通、移动、教育网、铁通等。</p><p>地址：<a href="https://dns-console.jdcloud.com/">https://dns-console.jdcloud.com/</a></p><p>2、DNSPod</p><p>现在为腾讯旗下，免费版支持电信、联通、移动、教育网、铁通、广电等</p><p>地址：<a href="https://www.dnspod.cn/">https://www.dnspod.cn</a></p><p>3、DNS.LA</p><p>免费版支持电信、联通、移动、搜索蜘蛛等。</p><p>地址：<a href="">https://www.dns.la/Index.aspx</a></p><p>4、青云DNS</p><p>免费版支持电信、联通、移动、搜索蜘蛛等。</p><p>地址：<a href="">https://console.qingcloud.com/dns</a></p><p>5、华为云DNS</p><p>免费版支持电信、联通、移动、搜索蜘蛛等。</p><p>地址：<a href="">https://console.huaweicloud.com/dns/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> DNS </tag>
+            
+            <tag> 网站 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
