@@ -4,6 +4,132 @@
   
     
     <entry>
+      <title>Butterfly魔改：修改404页面图片背景[超简单]</title>
+      <link href="/posts/ef293461/"/>
+      <url>/posts/ef293461/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Butterfly主题魔改404页面图片背景"><a href="#Butterfly主题魔改404页面图片背景" class="headerlink" title="Butterfly主题魔改404页面图片背景"></a>Butterfly主题魔改404页面图片背景</h1><p><a href="https://imgse.com/i/pSPniHs"><img src="https://s1.ax1x.com/2023/01/02/pSPniHs.jpg" alt="pSPniHs.jpg"></a></p><p>原版感觉不咋好看换个图片</p><p><img src="https://s2.loli.net/2023/01/02/iEYwFhbJlPKv7Wp.jpg" alt="屏幕截图 2023-01-02 122342.jpg"></p><p>还差点意思，绿加蓝的配色不咋行，改成白色还差不多.</p><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>废话不多说，直接主题</p><p>在 butterfly 主题文件夹下 找到 <code>source\css\_page\404.styl </code>打开编辑</p><p>找到第35行将 <code>background-color: $theme-color</code>改为 <code>background-color: #ffffff</code></p><p>如图：<a href="https://imgse.com/i/pSPnRKg"><img src="https://s1.ax1x.com/2023/01/02/pSPnRKg.jpg" alt="pSPnRKg.jpg"></a></p><p>之后 hexo 三件套就 OK</p><p>最终效果：</p><p><img src="https://s2.loli.net/2023/01/02/BJdtOGyV236ISwN.jpg" alt="屏幕截图 2023-01-02 123743.jpg"></p><p>感觉还行</p><p>图片地址：<a href="https://p0.meituan.net/csc/1a4428d813c7438540986070925d012b809246.png">https://p0.meituan.net/csc/1a4428d813c7438540986070925d012b809246.png</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 建站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Butterfly魔改 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>骗钱骗到班级群里了</title>
+      <link href="/posts/49a9ea2d/"/>
+      <url>/posts/49a9ea2d/</url>
+      
+        <content type="html"><![CDATA[<p>正在搞邮箱服务器，锅从天上来。</p><p><a href="https://imgse.com/i/pSCh954"><img src="https://s1.ax1x.com/2023/01/01/pSCh954.jpg" alt="pSCh954.jpg"></a></p><p>感觉很奇怪，啥时候用起了群收款，之前要么群里发红包要么私发，今天咋这么先进的用起了群收款.还换了头像（头像已打码）</p><p>按照惯例点击开头像<a href="https://imgse.com/i/pSChkx1"><img src="https://s1.ax1x.com/2023/01/01/pSChkx1.jpg" alt="pSChkx1.jpg"></a></p><p>我没加的？还啥时候去了**地区</p><p>去看了通讯录，发现老班（” <strong>老班</strong> “ 时下多为学生私下对班主任老师的昵称。）的任何东西都没有变，还是原来的.</p><p>意识到不对的我马上说<a href="https://imgse.com/i/pSChyLV"><img src="https://s1.ax1x.com/2023/01/01/pSChyLV.png" alt="pSChyLV.png"></a><a href="https://imgse.com/i/pSChss0"><img src="https://s1.ax1x.com/2023/01/01/pSChss0.png" alt="pSChss0.png"></a></p><p>结果ta给我来了句<a href="https://imgse.com/i/pSChWi4"><img src="https://s1.ax1x.com/2023/01/01/pSChWi4.jpg" alt="pSChWi4.jpg"></a></p><p>哪可能有小号还让别人拉进来，还把东西改的一毛一样的.</p><p>最终，在我的努力下，还是有一个人付了款</p><p><a href="https://imgse.com/i/pSChjWd"><img src="https://s1.ax1x.com/2023/01/01/pSChjWd.md.jpg" alt="pSChjWd.md.jpg"></a></p><p>骗子急了，想快点收款</p><p><a href="https://imgse.com/i/pSC4gXt"><img src="https://s1.ax1x.com/2023/01/01/pSC4gXt.jpg" alt="pSC4gXt.jpg"></a></p><p>开启了一键@功能，更容易暴露他是骗子，普通人不可能一分钟@群里的100多人</p><p>然后再没有人付款，骗子见捞不到人也退群了.</p><p>本次群里共计有一人损失98元.</p><p><a href="https://oss.gjfzpt.cn/preventfraud-static/h5/news/20221230/2022123012581608809695255157183.html?rd=797773&nodeId=140923#:~:text=%E5%86%92%E5%85%85%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%BF%9B%E8%A1%8C,%E8%BF%9B%E8%A1%8C%E7%BC%B4%E8%B4%B9%E3%80%82">国家反诈中心@学生与家长 这些骗局千万小心！！</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>再见2022，你好2023，结果意外发生了</title>
+      <link href="/posts/5f5bd3e0/"/>
+      <url>/posts/5f5bd3e0/</url>
+      
+        <content type="html"><![CDATA[<p>一年又过去了，回首过去，做了很多事情。</p><p>但又没做很多，…….</p><p>这时心里又不知道写什么于是随便找了个博客，意外的打开了公安网备，结果 <code>https://www.beian.gov.cn/ </code>的SSL证书过期了.😆</p><p><a href="https://imgse.com/i/pSCKcse"><img src="https://s1.ax1x.com/2023/01/01/pSCKcse.jpg" alt="pSCKcse.jpg"></a></p><p>总结2022的话：没啥好总结的</p><p>不过有一件要做的事情就是 决定更新一下网络环境设备，准备把零散的设备 All in One</p><p><a href="https://imgse.com/i/pSCK7QS"><img src="https://s1.ax1x.com/2023/01/01/pSCK7QS.jpg" alt="pSCK7QS.jpg"></a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>放烟花喽</title>
+      <link href="/posts/2682d930/"/>
+      <url>/posts/2682d930/</url>
+      
+        <content type="html"><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="https://2023.mocn.top?aid=434130511&bvid=BV1G3411Q7cC&cid=939300262&page=1" scrolling="no" onload="this.height=ifd.document.body.scrollHeight" width="100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div><p>Github：<a href="https://github.com/NianBroken/Firework_Simulator">https://github.com/NianBroken/Firework_Simulator</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>利用 WebBench 进行网站压力测试</title>
+      <link href="/posts/c6eab406/"/>
+      <url>/posts/c6eab406/</url>
+      
+        <content type="html"><![CDATA[<h1 id="利用-WebBench-进行网站压力测试"><a href="#利用-WebBench-进行网站压力测试" class="headerlink" title="利用 WebBench 进行网站压力测试"></a>利用 WebBench 进行网站压力测试</h1><h2 id="阅读之前先看我"><a href="#阅读之前先看我" class="headerlink" title="阅读之前先看我"></a>阅读之前先看我</h2><p>DDOS攻击行为触犯《中华人民共和国刑法》第二百八十五条、二百八十六条、《中华人民共和国刑法修正案（七）》的相关法律规定，具体如下： 违反国家规定，侵入国家事务、国防建设、尖端科学技术领域的计算机信息系统的，处<strong>三年以下有期徒刑</strong>或者拘役。</p><p>请慎重行事</p><hr><h2 id="Q-：-什么是DDoS攻击"><a href="#Q-：-什么是DDoS攻击" class="headerlink" title="Q ： 什么是DDoS攻击"></a>Q ： 什么是DDoS攻击</h2><p>A：DDoS(DDoS:Distributed Denial of Service)分布式拒绝服务攻击，就是让多台计算机联合起来对目标发动拒绝服务攻击。</p><p>那么什么又是拒绝服务攻击（DoS）呢？拒绝服务攻击即是攻击者想办法让目标机器停止提供服务的攻击。比如说把对方网页服务搞瘫痪，让对方网站访问不了。</p><h2 id="Q：什么是WebBench？"><a href="#Q：什么是WebBench？" class="headerlink" title="Q：什么是WebBench？"></a>Q：什么是WebBench？</h2><p>Webbench是一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。依赖ctags</p><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>测试的环境：Linux Ubuntu 22.04 LTS</p><h3 id="1、安装"><a href="#1、安装" class="headerlink" title="1、安装"></a>1、安装</h3><h4 id="1-1-安装ctags"><a href="#1-1-安装ctags" class="headerlink" title="1.1 安装ctags"></a>1.1 安装ctags</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install exuberant-ctags</span><br></pre></td></tr></table></figure><h4 id="1-2-下载安装"><a href="#1-2-下载安装" class="headerlink" title="1.2 下载安装"></a>1.2 下载安装</h4><p>官网：<a href="http://home.tiscali.cz/~cz210552/webbench.html">http://home.tiscali.cz/~cz210552&#x2F;webbench.html</a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">root@momo:~# wget http://home.tiscali.cz/~cz210552/distfiles/webbench-1.5.tar.gz</span><br><span class="line">root@momo:~# tar zxvf webbench-1.5.tar.gz </span><br><span class="line">root@momo:~# cd webbench-1.5/</span><br><span class="line">root@momo:~/webbench-1.5# make</span><br><span class="line">root@momo:~/webbench-1.5# make install</span><br><span class="line">root@momo:~/webbench-1.5# webbench </span><br><span class="line">webbench [option]... URL</span><br><span class="line"> -f|--force Don&#x27;t wait for reply from server.</span><br><span class="line"> -r|--reload Send reload request - Pragma: no-cache.</span><br><span class="line"> -t|--time &lt;sec&gt; Run benchmark for &lt;sec&gt; seconds. Default 30.</span><br><span class="line"> -p|--proxy &lt;server:port&gt; Use proxy server for request.</span><br><span class="line"> -c|--clients &lt;n&gt; Run &lt;n&gt; HTTP clients at once. Default one.</span><br><span class="line"> -9|--http09 Use HTTP/0.9 style requests.</span><br><span class="line"> -1|--http10 Use HTTP/1.0 protocol.</span><br><span class="line"> -2|--http11 Use HTTP/1.1 protocol.</span><br><span class="line"> --get Use GET request method.</span><br><span class="line"> --head Use HEAD request method.</span><br><span class="line"> --options Use OPTIONS request method.</span><br><span class="line"> --trace Use TRACE request method.</span><br><span class="line"> -?|-h|--help This information.</span><br><span class="line"> -V|--version Display program version.</span><br></pre></td></tr></table></figure><h4 id="用法"><a href="#用法" class="headerlink" title="用法"></a>用法</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">// webbench -c 并发数 -t 运行时间 URL链接</span><br><span class="line">例如： webbench -c 100 -t 10 http://exam.com/</span><br></pre></td></tr></table></figure><h4 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h4><p><a href="https://imgse.com/i/pS9ocxs"><img src="https://s1.ax1x.com/2022/12/31/pS9ocxs.jpg" alt="pS9ocxs.jpg"></a></p><p><a href="https://imgse.com/i/pS9TImt"><img src="https://s1.ax1x.com/2022/12/31/pS9TImt.jpg" alt="pS9TImt.jpg"></a><br><a href="https://imgse.com/i/pS9To0P"><img src="https://s1.ax1x.com/2022/12/31/pS9To0P.jpg" alt="pS9To0P.jpg"></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 建站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 建站 </tag>
+            
+            <tag> DDos </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>jsdelivr和npm的国内CDN</title>
+      <link href="/posts/8bf21bfa/"/>
+      <url>/posts/8bf21bfa/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>最近一两年jsdelivr的访问速度逐渐变得离谱，因为jsdelivr在国内的备案掉了.</p><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>废话不多说，直接主题</p><p>CDN类型：jsdelivr</p><p>CDN提供商：-</p><p><a href="https://js-cdn.mocn.top/">https://js-cdn.mocn.top/</a></p><p>CDN类型：Unpkg</p><p>CDN提供商：阿里云</p><p><a href="https://npm.elemecdn.com/">https://npm.elemecdn.com/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 建站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CDN </tag>
+            
+            <tag> jsdelivr </tag>
+            
+            <tag> npm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>免费Jsdelivr反代CDN新鲜出炉~ （使用文档）</title>
       <link href="/posts/a7484b3f/"/>
       <url>/posts/a7484b3f/</url>
@@ -13,7 +139,7 @@
       
       <categories>
           
-          <category> 分享 </category>
+          <category> 建站 </category>
           
       </categories>
       
@@ -35,7 +161,7 @@
       <link href="/posts/a0fc2bc7/"/>
       <url>/posts/a0fc2bc7/</url>
       
-        <content type="html"><![CDATA[<p>Win10也能用Win11的安卓子系统了👀</p><p>特别鸣谢<a href="https://www.coolapk.com/u/Earth_Online" title="@Earth_Online">@Earth_Online</a></p><p><a href="https://imgse.com/i/zv16eI"><img src="https://s1.ax1x.com/2022/12/24/zv16eI.jpg" alt="zv16eI.jpg"></a></p><p>免责声明：此教程仅供您学习使用！</p><p><a href="https://imgse.com/i/zvAbod"><img src="https://s1.ax1x.com/2022/12/24/zvAbod.jpg" alt="zvAbod.jpg"></a></p><p>下面我将讲述如何利用此开源项目给朋友们的Win10也能安装上Win11的WSA：</p><p>开源项目地址（cinit&#x2F;WSAPatch）：<br><a href="https://github.com/cinit/WSAPatch" title="https://github.com/cinit/WSAPatch">查看链接</a></p><p>本文利用本开源项目的中文文档编写出图文教程，你也可以点击本文档自行参考：<br><a href="https://github.com/cinit/WSAPatch/blob/main/README_zhs.md" title="https://github.com/cinit/WSAPatch/blob/main/README_zhs.md">查看链接</a></p><p>在此感谢大佬！</p><p>1、系统要求<br>• 你的系统必须是Windows 10 22H2 10.0.19045.2311 或更高版本（更低版本未测试，可能可用）。<br>• 若你的 Windows 版本低于 10.0.19045.2311, 请将您的系统更新到 10.0.19045.2311 或以上。<br>• 你可以通过 winver 命令查看您当前的 Windows 版本.<br>例如：</p><p><a href="https://imgse.com/i/zvAxQf"><img src="https://s1.ax1x.com/2022/12/24/zvAxQf.jpg" alt="zvAxQf.jpg"></a></p><p>（我的版本为 22H2 19045.2364）</p><p>2、下载（制作）【集成 Magisk 的 WSA AppX 包】</p><p>你可选择使用成品，或参考文档自行使用Linux编译定制</p><p><a href="https://www.coolapk.com/u/Earth_Online">@Earth_Online</a>:<br>成品修改版（可直接使用，基于patch-20221210）下载链接：<br>链接：<a href="https://www.coolapk.com/feed/41954554" title="https://www.coolapk.com/feed/41954554">查看链接</a></p><p>3、安装WSA<br>PS：将文件夹移动到你想安装的磁盘位置（Windows 无法部署到文件系统类型为 exFAT 的路径 WSA）</p><p>双击运行 Run.bat</p><p>PS：切勿右键以管理员运行bat</p><p>WSA程序自行启动</p><p><a href="https://imgse.com/i/zvEmOU"><img src="https://s1.ax1x.com/2022/12/24/zvEmOU.jpg" alt="zvEmOU.jpg"></a></p><p>开始菜单出现WSA设置</p><p><a href="https://imgse.com/i/zvEKw4"><img src="https://s1.ax1x.com/2022/12/24/zvEKw4.jpg" alt="zvEKw4.jpg"></a></p><p>简单安装APK：<br>1、起初笔者使用微软商店的WSA APK安装工具（wherewhere）想给wsa安装应用，可是经实践无法使用，于是使用了流水断崖的搞机助手：<br>外链:<a href="https://wwfo.lanzoub.com/b012eh48h" title="https://wwfo.lanzoub.com/b012eh48h">查看链接</a> 密码:shuiku</p><p>2、安装完成后，首先打开子系统设置找见adb ip端口</p><p><a href="https://imgse.com/i/zvEDfI"><img src="https://s1.ax1x.com/2022/12/24/zvEDfI.md.jpg" alt="zvEDfI.md.jpg"></a></p><p>3、在搞机助手的扩展功能点击cmd命令行并输入，回车：<br>adb connect 127.0.0.1:58526</p><p><a href="https://imgse.com/i/zvEy1P"><img src="https://s1.ax1x.com/2022/12/24/zvEy1P.md.jpg" alt="zvEy1P.md.jpg"></a></p><img src="https://p0.meituan.net/csc/9e9242ea08153b05a7243cd173b0e33072692.jpg"><img src="https://p1.meituan.net/csc/eee6580bf45628651c170ded02e221e118263.jpg"><p>连接成功后，右下角会显示设备连接状态<br>此时WSA弹出窗口授权点击确认</p><p>4、搞机助手点击推送文件，选择需要安装的apk并点击推送。（不推荐使用应用安装）</p><p><a href="https://imgse.com/i/zvE66f"><img src="https://s1.ax1x.com/2022/12/24/zvE66f.md.jpg" alt="zvE66f.md.jpg"></a></p><p><a href="https://imgse.com/i/zvEHXT"><img src="https://s1.ax1x.com/2022/12/24/zvEHXT.jpg" alt="zvEHXT.jpg"></a></p><p>5、在子系统设置中点击文件</p><p><a href="https://imgse.com/i/zvEcX8"><img src="https://s1.ax1x.com/2022/12/24/zvEcX8.md.jpg" alt="zvEcX8.md.jpg"></a></p><p>6、点击方框中按钮，即可看到安装包，点击安装包安装，在安装后打开即可使用。并且在开始菜单也会显示。</p><p><a href="https://imgse.com/i/zvER0g"><img src="https://s1.ax1x.com/2022/12/24/zvER0g.md.jpg" alt="zvER0g.md.jpg"></a></p><p>PS：WSA可用的桌面程序：ATV_Launcher_0.1.5-pro<br>外链:<a href="https://wwfo.lanzoub.com/b012eh48h" title="https://wwfo.lanzoub.com/b012eh48h">查看链接</a> 密码:shuiku</p><p>截图</p><p><a href="https://imgse.com/i/zvEhkj"><img src="https://s1.ax1x.com/2022/12/24/zvEhkj.md.jpg" alt="zvEhkj.md.jpg"></a></p><p><a href="https://imgse.com/i/zvE4ts"><img src="https://s1.ax1x.com/2022/12/24/zvE4ts.jpg" alt="zvE4ts.jpg"></a><br><a href="https://imgse.com/i/zvE5hn"><img src="https://s1.ax1x.com/2022/12/24/zvE5hn.jpg" alt="zvE5hn.jpg"></a><br><a href="https://imgse.com/i/zvEopq"><img src="https://s1.ax1x.com/2022/12/24/zvEopq.md.jpg" alt="zvEopq.md.jpg"></a><br><a href="https://imgse.com/i/zvET10"><img src="https://s1.ax1x.com/2022/12/24/zvET10.md.jpg" alt="zvET10.md.jpg"></a></p>]]></content>
+        <content type="html"><![CDATA[<p>Win10也能用Win11的安卓子系统了👀</p><p>特别鸣谢<a href="https://www.coolapk.com/u/Earth_Online" title="@Earth_Online">@Earth_Online</a></p><p><a href="https://imgse.com/i/zv16eI"><img src="https://s1.ax1x.com/2022/12/24/zv16eI.jpg" alt="zv16eI.jpg"></a></p><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="https://player.bilibili.com/player.html?aid=434130511&bvid=BV1G3411Q7cC&cid=939300262&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div><p>免责声明：此教程仅供您学习使用！</p><p><a href="https://imgse.com/i/zvAbod"><img src="https://s1.ax1x.com/2022/12/24/zvAbod.jpg" alt="zvAbod.jpg"></a></p><p>下面我将讲述如何利用此开源项目给朋友们的Win10也能安装上Win11的WSA：</p><p>开源项目地址（cinit&#x2F;WSAPatch）：<br><a href="https://github.com/cinit/WSAPatch" title="https://github.com/cinit/WSAPatch">查看链接</a></p><p>本文利用本开源项目的中文文档编写出图文教程，你也可以点击本文档自行参考：<br><a href="https://github.com/cinit/WSAPatch/blob/main/README_zhs.md" title="https://github.com/cinit/WSAPatch/blob/main/README_zhs.md">查看链接</a></p><p>在此感谢大佬！</p><p>1、系统要求<br>• 你的系统必须是Windows 10 22H2 10.0.19045.2311 或更高版本（更低版本未测试，可能可用）。<br>• 若你的 Windows 版本低于 10.0.19045.2311, 请将您的系统更新到 10.0.19045.2311 或以上。<br>• 你可以通过 winver 命令查看您当前的 Windows 版本.<br>例如：</p><p><a href="https://imgse.com/i/zvAxQf"><img src="https://s1.ax1x.com/2022/12/24/zvAxQf.jpg" alt="zvAxQf.jpg"></a></p><p>（我的版本为 22H2 19045.2364）</p><p>2、下载（制作）【集成 Magisk 的 WSA AppX 包】</p><p>你可选择使用成品，或参考文档自行使用Linux编译定制</p><p><a href="https://www.coolapk.com/u/Earth_Online">@Earth_Online</a>:<br>成品修改版（可直接使用，基于patch-20221210）下载链接：<br>链接：<a href="https://www.coolapk.com/feed/41954554" title="https://www.coolapk.com/feed/41954554">查看链接</a></p><p>3、安装WSA<br>PS：将文件夹移动到你想安装的磁盘位置（Windows 无法部署到文件系统类型为 exFAT 的路径 WSA）</p><p>双击运行 Run.bat</p><p>PS：切勿右键以管理员运行bat</p><p>WSA程序自行启动</p><p><a href="https://imgse.com/i/zvEmOU"><img src="https://s1.ax1x.com/2022/12/24/zvEmOU.jpg" alt="zvEmOU.jpg"></a></p><p>开始菜单出现WSA设置</p><p><a href="https://imgse.com/i/zvEKw4"><img src="https://s1.ax1x.com/2022/12/24/zvEKw4.jpg" alt="zvEKw4.jpg"></a></p><p>简单安装APK：<br>1、起初笔者使用微软商店的WSA APK安装工具（wherewhere）想给wsa安装应用，可是经实践无法使用，于是使用了流水断崖的搞机助手：<br>外链:<a href="https://wwfo.lanzoub.com/b012eh48h" title="https://wwfo.lanzoub.com/b012eh48h">查看链接</a> 密码:shuiku</p><p>2、安装完成后，首先打开子系统设置找见adb ip端口</p><p><a href="https://imgse.com/i/zvEDfI"><img src="https://s1.ax1x.com/2022/12/24/zvEDfI.md.jpg" alt="zvEDfI.md.jpg"></a></p><p>3、在搞机助手的扩展功能点击cmd命令行并输入，回车：<br>adb connect 127.0.0.1:58526</p><p><a href="https://imgse.com/i/zvEy1P"><img src="https://s1.ax1x.com/2022/12/24/zvEy1P.md.jpg" alt="zvEy1P.md.jpg"></a></p><img src="https://p0.meituan.net/csc/9e9242ea08153b05a7243cd173b0e33072692.jpg"><img src="https://p1.meituan.net/csc/eee6580bf45628651c170ded02e221e118263.jpg"><p>连接成功后，右下角会显示设备连接状态<br>此时WSA弹出窗口授权点击确认</p><p>4、搞机助手点击推送文件，选择需要安装的apk并点击推送。（不推荐使用应用安装）</p><p><a href="https://imgse.com/i/zvE66f"><img src="https://s1.ax1x.com/2022/12/24/zvE66f.md.jpg" alt="zvE66f.md.jpg"></a></p><p><a href="https://imgse.com/i/zvEHXT"><img src="https://s1.ax1x.com/2022/12/24/zvEHXT.jpg" alt="zvEHXT.jpg"></a></p><p>5、在子系统设置中点击文件</p><p><a href="https://imgse.com/i/zvEcX8"><img src="https://s1.ax1x.com/2022/12/24/zvEcX8.md.jpg" alt="zvEcX8.md.jpg"></a></p><p>6、点击方框中按钮，即可看到安装包，点击安装包安装，在安装后打开即可使用。并且在开始菜单也会显示。</p><p><a href="https://imgse.com/i/zvER0g"><img src="https://s1.ax1x.com/2022/12/24/zvER0g.md.jpg" alt="zvER0g.md.jpg"></a></p><p>PS：WSA可用的桌面程序：ATV_Launcher_0.1.5-pro<br>外链:<a href="https://wwfo.lanzoub.com/b012eh48h" title="https://wwfo.lanzoub.com/b012eh48h">查看链接</a> 密码:shuiku</p><p>截图</p><p><a href="https://imgse.com/i/zvEhkj"><img src="https://s1.ax1x.com/2022/12/24/zvEhkj.md.jpg" alt="zvEhkj.md.jpg"></a></p><p><a href="https://imgse.com/i/zvE4ts"><img src="https://s1.ax1x.com/2022/12/24/zvE4ts.jpg" alt="zvE4ts.jpg"></a><br><a href="https://imgse.com/i/zvE5hn"><img src="https://s1.ax1x.com/2022/12/24/zvE5hn.jpg" alt="zvE5hn.jpg"></a><br><a href="https://imgse.com/i/zvEopq"><img src="https://s1.ax1x.com/2022/12/24/zvEopq.md.jpg" alt="zvEopq.md.jpg"></a><br><a href="https://imgse.com/i/zvET10"><img src="https://s1.ax1x.com/2022/12/24/zvET10.md.jpg" alt="zvET10.md.jpg"></a></p>]]></content>
       
       
       <categories>
@@ -154,14 +280,14 @@
       
       <categories>
           
-          <category> 短文章 </category>
+          <category> 建站 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 短文章 </tag>
+            <tag> 建站 </tag>
             
         </tags>
       
@@ -244,9 +370,7 @@
       
         <tags>
             
-            <tag> 安卓 </tag>
-            
-            <tag> 软件 </tag>
+            <tag> 安卓软件 </tag>
             
         </tags>
       
@@ -271,9 +395,9 @@
       
         <tags>
             
-            <tag> DNS </tag>
+            <tag> 建站 </tag>
             
-            <tag> 网站 </tag>
+            <tag> DNS </tag>
             
         </tags>
       
